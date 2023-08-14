@@ -1,5 +1,5 @@
 # PwC-Customer-Retention-and-Churn-Analysis
-PwC Power BI Virtual Case Experience Task 2 Customer Retention and Churn Analysis Dashboard
+PwC Power BI Virtual Case Experience Task 2- Customer Retention and Churn Analysis Dashboard
 
 ## Problem Statement
 In this project Create a dashboard in Power BI for the PhoneNow Company that reflects the Churn analysis and Customer Information for further decision making and strategies for customer retention.
