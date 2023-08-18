@@ -3,22 +3,21 @@ PwC Power BI Virtual Case Experience Task 2- Customer Retention and Churn Analys
 
 ## Problem Statement
 In this project Create a dashboard in Power BI for the PhoneNow Company that reflects the Churn analysis and Customer Information for further decision making and strategies for customer retention.
+The telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
 
-Possible KPIs include (but are not limited to):
-
-1. Customer demographics like gender, age, dependency, marital status, etc
-2. Their contract information according to the age groups.
-3. % of customers for the services they signed up for.
-4. Revenue and ticket information.
-5. Contract and charges graphs.
-6. Churned customers according to payment methods, internet services etc.
+1. Customers in the telecom industry are hard-earned: we don’t want to lose them
+2. The retention department is here to get customers back in case of termination 
+3. Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
+4. We have done customer analysis with Excel: it has always ended in a dead-end
+5. We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management.
 
  ## Dataset:
 The dataset used for this task was presented by https://www.theforage.com
 
 ## Data Cleaning/ Preparation:
 1. The data consists of over 7000 rows and 23 columns.
-2. Loaded the dataset in PowerBI and the dataset was clean to perform the analysis directly.
+2. Divided the tenure(in months) to different groups in years such as 0-1 year, 2-3 years etc 
+3. Loaded the dataset in PowerBI and the remaining dataset was clean enough to perform the analysis directly.
 
 ## Questions to be answered :
 1. Customers who left within the last month
